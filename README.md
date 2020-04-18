@@ -1,3 +1,12 @@
+<div align="center">
+    <h1> Title </h1>
+    <p>
+      <i>Tagline/description</i>
+    </p>
+</div>
+
+OR
+
 # Title
 
 ## Table of Contents
