@@ -19,7 +19,7 @@
 - [Built With](##Built%20With)
 - [Liscence](##Liscence)
 
-## Getting Started
+## 🏁 Getting Started
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of <coding_language/dependency/requirement_1>
 
-### Installation
+## ⚙️ Scripts
 
 To install <project_name>, follow these steps:
 
@@ -39,18 +39,20 @@ npm install
 
 ## Usage
 
-## Deployment
+## ✔️ Deployment
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Acknowledgements
+## 👨‍💻 Acknowledgements
 
 - [@Nash](https://github.com/NyashaNziramasanga)
 - [How to write a readme (Article)](#)
 
-## Built With
+## 📓 Resources
+
+## 🏗️ Built With
 
 - [tech](#)
 
