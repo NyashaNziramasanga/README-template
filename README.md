@@ -5,19 +5,27 @@
     </p>
 </div>
 
+> Badges "Netlify, Wakatime, NPM, snyk etc"
+
+> Add gif by recording using[giphy](https://giphy.com/) desktop app
+
 ## Description
 
 ## Table of Contents
 
-- [Getting Started](##Getting%20Started)
-  - [Prerequisites](###Prerequisites)
-  - [Installation](###Installation)
-- [Usage](##Usage)
-- [Deployment](##Deployment)
-- [Contributing](##Contributing)
-- [Acknowledgements](##Acknowledgements)
-- [Built With](##Built%20With)
-- [Liscence](##Liscence)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [🏁 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+- [⚙️ Scripts](#️-scripts)
+- [Usage](#usage)
+- [🛠️ Architecture](#️-architecture)
+- [✔️ Deployment](#️-deployment)
+- [✍️ Contributing](#️-contributing)
+- [👨‍💻 Acknowledgements](#-acknowledgements)
+- [📓 Resources](#-resources)
+- [🏗️ Built With](#️-built-with)
+- [📕 Liscence](#-liscence)
 
 ## 🏁 Getting Started
 
@@ -41,7 +49,9 @@ npm install
 
 ## 🛠️ Architecture
 
-- Add image or architectur use [draw.io](https://app.diagrams.net/)
+- Add image or architecture use [draw.io](https://app.diagrams.net/)
+
+![architecture](images/architecture.png)
 
 ## ✔️ Deployment
 
