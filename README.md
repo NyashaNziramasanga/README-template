@@ -23,6 +23,7 @@
 - [✔️ Deployment](#️-deployment)
 - [✍️ Contributing](#️-contributing)
 - [👨‍💻 Acknowledgements](#-acknowledgements)
+- [🗂️ File Structure](#-file-structure)
 - [📓 Resources](#-resources)
 - [🏗️ Built With](#️-built-with)
 - [📕 Liscence](#-liscence)
@@ -63,6 +64,24 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - [@Nash](https://github.com/NyashaNziramasanga)
 - [How to write a readme (Article)](#)
+
+## 🗂️ File Structure
+```shell
+Expo Firebase Starter
+├── assets ➡️ All static assets
+├── components ➡️ All re-suable UI components for form screens
+│   └── Firebase ➡️ Firebase related config directory
+│       └── firebaseConfig.js ➡️ Firebase API keys
+├── navigation
+│   └── AppStack.js ➡️ Protected routes such as Home screen
+├── screens
+│   └── ForgotPassword.js ➡️ Forgot Password screen component
+│   └── HomeScreen.js ➡️ Protected route/screen component
+├── utils
+│   └── colors.js ➡️ Default, reusable values across the app
+├── App.js ➡️ Entry Point for Mobile apps
+├── app.json ➡️ Expo config file
+```
 
 ## 📓 Resources
 
